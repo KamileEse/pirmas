@@ -1,0 +1,6 @@
+/Users/kamileeselinaite/Projects/Pamoka13/Task3/bin/Debug/Task3.exe
+/Users/kamileeselinaite/Projects/Pamoka13/Task3/bin/Debug/Task3.pdb
+/Users/kamileeselinaite/Projects/Pamoka13/Task3/obj/anycpu/Debug/Task3.csproj.CoreCompileInputs.cache
+/Users/kamileeselinaite/Projects/Pamoka13/Task3/obj/anycpu/Debug/Task3.exe
+/Users/kamileeselinaite/Projects/Pamoka13/Task3/obj/anycpu/Debug/Task3.pdb
+/Users/kamileeselinaite/Projects/Pamoka13/Task3/obj/anycpu/Debug/Task3.csproj.AssemblyReference.cache
