@@ -1,0 +1,5 @@
+/Users/kamileeselinaite/Projects/Pamoka13/FileTrial/bin/Debug/FileTrial.exe
+/Users/kamileeselinaite/Projects/Pamoka13/FileTrial/bin/Debug/FileTrial.pdb
+/Users/kamileeselinaite/Projects/Pamoka13/FileTrial/obj/anycpu/Debug/FileTrial.csproj.CoreCompileInputs.cache
+/Users/kamileeselinaite/Projects/Pamoka13/FileTrial/obj/anycpu/Debug/FileTrial.exe
+/Users/kamileeselinaite/Projects/Pamoka13/FileTrial/obj/anycpu/Debug/FileTrial.pdb
