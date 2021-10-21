@@ -23,8 +23,16 @@ namespace Task5
 
         public static void IrasytiDuomenis(string duomenys)
         {
-            File.WriteAllText("/Users/kamileeselinaite/Desktop/C#/test2.txt", duomenys);
-
+            string vieta = "/Users/kamileeselinaite/Desktop/C#/test2.txt";
+            DirectoryInfo direktorija = Directory.GetParent(vieta);
+            if (direktorija.Exists == true)
+            {
+                File.WriteAllText(vieta, duomenys);
+            }
+            else
+            {
+                Console.WriteLine("Ivyko klaida, vieta neegzistuoja");
+            }
 
         }
     }

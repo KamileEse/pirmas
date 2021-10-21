@@ -12,7 +12,7 @@ namespace Task2
 
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
