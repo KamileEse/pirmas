@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{85C2AAD6-E50A-4205-9C25-4CC7183F8212}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task3/IkiNulio.cs">
+    <Files>
+      <File FileName="Task1/Program.cs" Line="38" Column="1" />
+      <File FileName="Task5/Program.cs" />
+      <File FileName="FileTrial/Program.cs" />
+      <File FileName="Task6/Program.cs" />
+      <File FileName="Task6/Klase6.cs" />
+      <File FileName="Task2/Inputter.cs" Line="1" Column="1" />
+      <File FileName="Task2/Program.cs" Line="15" Column="13" />
+      <File FileName="Task3/Program.cs" Line="1" Column="1" />
+      <File FileName="Task3/IkiNulio.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pamoka13" expanded="True">
+            <Node name="Task2" expanded="True" />
+            <Node name="Task3" expanded="True">
+              <Node name="IkiNulio.cs" selected="True" />
+            </Node>
+            <Node name="Task6" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task6 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Delegatai FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

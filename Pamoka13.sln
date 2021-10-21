@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5", "Task5\Task5.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTrial", "FileTrial\FileTrial.csproj", "{09CE1B90-43E5-4939-BEF3-E6168C5527D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6", "Task6\Task6.csproj", "{D4031E4D-6CE7-4257-871F-CA354CBF608F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegatai", "Delegatai\Delegatai.csproj", "{8C7A7344-016E-4539-B18F-2515F3B5A056}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -39,6 +43,14 @@ Global
 		{09CE1B90-43E5-4939-BEF3-E6168C5527D2}.Debug|anycpu.Build.0 = Debug|anycpu
 		{09CE1B90-43E5-4939-BEF3-E6168C5527D2}.Release|anycpu.ActiveCfg = Release|anycpu
 		{09CE1B90-43E5-4939-BEF3-E6168C5527D2}.Release|anycpu.Build.0 = Release|anycpu
+		{D4031E4D-6CE7-4257-871F-CA354CBF608F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D4031E4D-6CE7-4257-871F-CA354CBF608F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D4031E4D-6CE7-4257-871F-CA354CBF608F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D4031E4D-6CE7-4257-871F-CA354CBF608F}.Release|anycpu.Build.0 = Release|anycpu
+		{8C7A7344-016E-4539-B18F-2515F3B5A056}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8C7A7344-016E-4539-B18F-2515F3B5A056}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8C7A7344-016E-4539-B18F-2515F3B5A056}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8C7A7344-016E-4539-B18F-2515F3B5A056}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
