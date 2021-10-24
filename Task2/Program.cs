@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Task2
 {
@@ -12,7 +13,14 @@ namespace Task2
 
         public static void Main(string[] args)
         {
+            Inputter irasas = new Inputter();
+
+
+            irasas.Nuskaitymas();
+            irasas.SarasasTeigiamas(); // nemoku iskviest
             
+
+            Console.ReadLine();
         }
     }
 }

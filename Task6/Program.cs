@@ -11,7 +11,16 @@ namespace Task6
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string path = @"/Users/kamileeselinaite/Desktop/C#/test6.txt";
+            string tekstas;
+            tekstas = Console.ReadLine();
+
+            Klase6 naujasIrasas = new Klase6();
+
+            naujasIrasas.PatikrintiArEgzistuoja(path, "lalala");
+            naujasIrasas.PridetiIrasa(path);
+
+            Console.ReadLine();
         }
     }
 }

@@ -1,25 +1,30 @@
-﻿<Properties StartupConfiguration="{85C2AAD6-E50A-4205-9C25-4CC7183F8212}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task3/IkiNulio.cs">
+﻿<Properties StartupConfiguration="{46F82205-99D6-4682-9D3D-B3EBA2B26E09}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task7 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Task8 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task8/Program.cs">
     <Files>
-      <File FileName="Task1/Program.cs" Line="38" Column="1" />
-      <File FileName="Task5/Program.cs" />
-      <File FileName="FileTrial/Program.cs" />
-      <File FileName="Task6/Program.cs" />
-      <File FileName="Task6/Klase6.cs" />
-      <File FileName="Task2/Inputter.cs" Line="1" Column="1" />
-      <File FileName="Task2/Program.cs" Line="15" Column="13" />
+      <File FileName="Task5/Program.cs" Line="28" Column="18" />
+      <File FileName="Task6/Program.cs" Line="27" Column="1" />
+      <File FileName="Task6/Klase6.cs" Line="13" Column="1" />
+      <File FileName="Task2/Inputter.cs" Line="49" Column="1" />
+      <File FileName="Task2/Program.cs" Line="27" Column="1" />
       <File FileName="Task3/Program.cs" Line="1" Column="1" />
-      <File FileName="Task3/IkiNulio.cs" Line="1" Column="1" />
+      <File FileName="Task3/IkiNulio.cs" Line="25" Column="34" />
+      <File FileName="Task7/Program.cs" Line="26" Column="1" />
+      <File FileName="Task7/Vartotojas.cs" Line="1" Column="1" />
+      <File FileName="Task7/PrisijungtiArRegistruotis.cs" Line="1" Column="1" />
+      <File FileName="Task4/Program.cs" Line="17" Column="32" />
+      <File FileName="Task4/WordsDatabase.cs" Line="25" Column="30" />
+      <File FileName="Task8/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Pamoka13" expanded="True">
-            <Node name="Task2" expanded="True" />
-            <Node name="Task3" expanded="True">
-              <Node name="IkiNulio.cs" selected="True" />
+            <Node name="Task7" expanded="True" />
+            <Node name="Task8" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Task6" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -27,12 +32,15 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Task6 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Task6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Delegatai FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Task4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -10,30 +10,47 @@ namespace Task5
 
         public static void Main(string[] args)
         {
-            string ivestiDuomenys = IvestiDuomenis();
-            IrasytiDuomenis(ivestiDuomenys);
+            string vieta = "/Users/kamileeselinaite/Desktop/C#/test2.txt";
+            IvestiDuomenis(vieta);
+            NuskaitytiDuomenis(vieta);
         }  
 
-        public static string IvestiDuomenis()
+
+
+        public static void IvestiDuomenis(string vieta)
         {
             Console.WriteLine("Iveskite teksta:");
             string duomenys = Console.ReadLine();
-            return duomenys;
+
+            try
+            {
+                using (StreamWriter sw = new StreamWriter(vieta))
+                {
+                    sw.WriteLine(duomenys);
+                }
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine($"Klaida! {e.Message}");
+            }
         }
 
-        public static void IrasytiDuomenis(string duomenys)
+        public static void NuskaitytiDuomenis(string vieta)
         {
-            string vieta = "/Users/kamileeselinaite/Desktop/C#/test2.txt";
-            DirectoryInfo direktorija = Directory.GetParent(vieta);
-            if (direktorija.Exists == true)
-            {
-                File.WriteAllText(vieta, duomenys);
-            }
-            else
-            {
-                Console.WriteLine("Ivyko klaida, vieta neegzistuoja");
-            }
+            string duomenys;
 
+            try
+            {
+                using(StreamReader sr = new StreamReader(vieta))
+                {
+                    duomenys = sr.ReadToEnd();
+                    Console.WriteLine($"Nuskaityti duomenys: {duomenys}");
+                }
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine($"Klaida! {e.Message}");
+            }
         }
     }
 }
